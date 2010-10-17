@@ -27,7 +27,7 @@ gem 'rspec', '>= 2.0.0'
 gem 'rspec-rails', '>= 2.0.1'
 gem 'factory_girl', '>= 1.3.2'
 gem 'paperclip', '>= 2.3.4'
-
+gem 'capistrano', '>= 2.5.19'
 
 
 
